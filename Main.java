@@ -36,7 +36,6 @@ class ProdutoUsado extends Produto {
 
 }
 
-// Classe principal do programa
 public class Principal {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
